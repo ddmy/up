@@ -15,7 +15,7 @@
 
 		createDivFlag && createDiv();
 
-	})
+	})	
 
 	//开始生成盒子
 	function createDiv(){
